@@ -7,7 +7,7 @@ Conventional wisdom in the technology industry, with its love for "flat" organiz
 
 Presented by Florian Haas at DevOpsDays Tel Aviv 2019
 
-Rendered slides from this presentation are at <https://fghaas.github.io/five_is_fine>.
+Rendered slides from this presentation are at <https://fghaas.github.io/five-is-fine>.
 
 * * *
 
