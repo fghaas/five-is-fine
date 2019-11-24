@@ -10,7 +10,7 @@ Reveal.initialize({
     showNotes: false,
 
     transition: 'fade',
-
+    navigationMode: 'linear',
 
     menu: {
         themes: false,
