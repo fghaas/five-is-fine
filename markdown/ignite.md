@@ -96,8 +96,8 @@ managers can do this for more people. But they won’t be able to do it
 without making life harder for the people they work with.
 
 
-> A good manager is someone who gives me objectives and guardrails,
-> and then gets out of my way so I can accomplish things.
+> “A good manager is someone who gives me objectives and guardrails,
+> and then gets out of my way so I can accomplish things.”
 
 — every knowledge worker, everywhere, always
 
