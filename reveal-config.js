@@ -20,6 +20,8 @@ Reveal.initialize({
         markers: true
     },
 
+    defaultTiming: 15,
+
     multiplex: {
         secret: multiplex_config['secret'],
         id: multiplex_config['socketId'],
