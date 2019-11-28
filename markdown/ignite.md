@@ -52,15 +52,103 @@ If you think you can do all 5 for more than 5 people,
 
 **you’re kidding yourself.**
 
-<!-- Note -->
-And this is wrong. If you want to fulfill those 5 requirements,
-there’s no sensible way to do that for more than 5 people.
+<!-- Note --> 
+And this is wrong. If you — and this is me talking to those of you who
+*are* managers — want to fulfill those 5 requirements, then there’s no
+sensible way to do that for more than 5 people.
+
+Because:
 
 
-Every person for whose work you hold responsibility will take up about
+Every person for whose work you are responsible will take up about
 20% of your own working time.
 
 **And that’s fine.**
 
 <!-- Note -->
+If you want to do well in these these 5 things, then every person for
+whose work you hold responsibility will take up 20% of your time. So
+that means:
 
+
+TODO: 60% pie chart
+
+<!-- Note -->
+If you run a team of 3 people (excluding yourself), then 60% of your
+time will go toward fulfilling these 5 responsibilities for them.
+
+
+TODO: 100% pie chart
+
+<!-- Note -->
+By the time you get to 5, you’re a full-time manager. If you don’t
+want to compromise your dedication and your obligation to your people,
+that’s the limit.
+
+That’s impossible! I hear you cry. How dare you!
+
+
+I can do this for more people!
+
+<!-- Note -->
+Surely you can do this for more people. A significant number of
+managers can do this for more people. But they won’t be able to do it
+without making life harder for the people they work with.
+
+
+> A good manager is someone who gives me objectives and guardrails,
+> and then gets out of my way so I can accomplish things.
+
+— every knowledge worker, everywhere, always
+
+<!-- Note -->
+Because there’s nothing that depresses people’s motivation and
+productivity so much as standing between them and their goals.
+
+So:
+
+
+With more than 5 people,
+
+**you’ll need daily standups to know where they are.**
+
+Or daily status reports. People love those just as much.
+
+<!-- Note -->
+TODO
+
+
+With more than 5 people,
+
+**you’ll have to use your daily standups to gauge how they feel.**
+
+People love that even more.
+
+<!-- Note -->
+TODO
+
+
+With more than 5 people,
+
+**people from other teams will have to do end-runs around you.**
+
+<!-- Note -->
+TODO
+
+
+With more than 5 people,
+
+**you’ve got no way to stay on top of things, technically.**
+
+And it’s really hard to be responsible if you’re clueless.
+
+<!-- Note -->
+TODO
+
+
+With more than 5 people,
+
+**it’s really hard to pass on credit and absorb blame.**
+
+<!-- Note -->
+TODO
