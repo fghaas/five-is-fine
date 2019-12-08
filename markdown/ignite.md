@@ -112,10 +112,11 @@ With more than 5 people,
 
 **you’ll need daily standups to know where they are.**
 
-Or daily status reports. People love those just as much.
-
 <!-- Note -->
-TODO
+With more than 5 people, it becomes impossible for you, as a manager,
+to keep track of what your team is doing by just watching them do
+their thing. So, you’ll end up doing daily standups because that’s the
+only way you’ll be able to keep track of how they’re doing.
 
 
 With more than 5 people,
@@ -125,7 +126,13 @@ With more than 5 people,
 People love that even more.
 
 <!-- Note -->
-TODO
+But what’s worse is that you’ll need to use that daily standup to
+gauge how they’re *feeling,* too.
+
+Daily standups are as much liked by managers as they are disliked by
+engineers. If you’re thinking you’re doing your people a favor by
+having daily standups think again — that’s a favor you’re doing
+yourself, to their disadvantage.
 
 
 With more than 5 people,
@@ -133,7 +140,15 @@ With more than 5 people,
 **people from other teams will have to do end-runs around you.**
 
 <!-- Note -->
-TODO
+With more than 5 people it also becomes impossible to stay informed
+about everything your group does, which is a crucial prerequisite for
+you to act as an interface to other groups. The minute you can no
+longer do that, your people will need to coordinate directly with
+other people at their level in other teams, *and that’s not their
+job.*
+
+As a manager it’s *your* job to be that interface, and with too large
+a team size you are actively keeping yourself from doing it.
 
 
 With more than 5 people,
@@ -142,8 +157,15 @@ With more than 5 people,
 
 And it’s really hard to be responsible if you’re clueless.
 
-<!-- Note -->
-TODO
+<!-- Note --> 
+In a technical leadership role, you can’t *not* understand what your
+team does. Staying on top of things is a prerequisite so you can make
+informed decisions. Don’t understand something? Have your team explain
+it to you, in detail, then decide. Handwaving is not in your job
+description.
+
+And it’s next to impossible if your team is over 10 people with
+different areas of expertise.
 
 
 With more than 5 people,
@@ -151,4 +173,12 @@ With more than 5 people,
 **it’s really hard to pass on credit and absorb blame.**
 
 <!-- Note -->
-TODO
+From all of the above it follows that with a team of more than 5
+people, it becomes really difficult to reasonably take full
+accountability and responsibility for everything that the team does,
+*particularly* when things go south. *But that’s the very definition
+of a person in charge:* you absorb blame for yourself, and you pass on
+credit to the team. And you want to be in a position where you
+confidently *can* do that — if you’re not, you’re putting your health,
+your sanity, your family, and your career on the line. And no-one
+should be doing that.
