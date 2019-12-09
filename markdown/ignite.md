@@ -34,17 +34,18 @@ With how many people does this work?
 
 <!-- Note -->
 Now a little while back, I ran a Twitter poll asking: if those are the
-things managers ought to be doing, what is the maximum number of
-people we should be doing it with?
+things managers ought to be doing — and there was no disagreement that
+they are — then what is the maximum number of people we should be
+doing it with?
 
 
 <!-- .slide: data-background-image="images/poll.png" data-background-size="contain" -->
 
 <!-- Note -->
 And the results were not surprising; they reflected what’s more or
-less the conventional wisdom: the general expectation is that a
-manager ought to be capable of doing this with a team size of up to 10
-people.
+less the conventional wisdom in our industry: the general expectation
+is that a manager ought to be capable of doing this with a team size
+of up to 10 people.
 
 
 If you think you can do all 5 for more than 5 people,
@@ -52,9 +53,10 @@ If you think you can do all 5 for more than 5 people,
 **you’re kidding yourself.**
 
 <!-- Note --> 
-And this is wrong. If you — and this is me talking to those of you who
-*are* managers — want to fulfill those 5 requirements, then there’s no
-sensible way to do that for more than 5 people.
+And I’ll submit that this is wrong. If you — and this is me talking to
+those of you who *are* managers — want to fulfill those 5
+requirements, then there’s no sensible way to do that for more than 5
+people.
 
 Because:
 
@@ -63,25 +65,28 @@ Every person for whose work you are responsible
 **will take up about 20% of your own working time.**
 
 <!-- Note --> 
-If you want to do well in these these 5 things, if you agree that
-they’re important and you want to take them seriously, then every
-person for whose work you hold responsibility will take up 20% of your
+If we want to do well in these these 5 things, if we agree that
+they’re important and we want to take them seriously, then every
+person for whose work we hold responsibility will take up 20% of our
 time. So that means:
 
 
 TODO: 60% pie chart
 
 <!-- Note -->
-If you run a team of 3 people (excluding yourself), then 60% of your
-time will go toward fulfilling these 5 responsibilities for them.
+If I run a team of 3 people (excluding myself), then 60% of my
+time will go toward fulfilling these 5 responsibilities for them, and
+only 40% of my work time will be available for my own active
+contribution to our product.
 
 
 TODO: 100% pie chart
 
 <!-- Note -->
-By the time you get to 5, you’re a full-time manager. If you don’t
-want to compromise your dedication and your obligation to your people
-*and your business* under those five responsibilities, that’s the
+By the time I get to 5, I’m a full-time manager and I make no direct
+contribution to our product anymore. If I don’t
+want to compromise my dedication and my obligation to my people
+*and our business* under those five responsibilities, that’s the
 limit.
 
 Now of course some of you will say, that’s nonsense!
@@ -91,9 +96,9 @@ I can do this for more people!
 
 <!-- Note -->
 Surely you can do this for more people. A significant number of
-managers *do* this for more people. But they won’t be able to do it
+managers *do* this for more people. But we’re not able to do it
 without compromising those five responsibilities, and thus making
-they’re making life harder for the people they work with.
+life harder for the people we work with.
 
 
 > “A good manager is someone who gives me objectives and guardrails,
@@ -102,10 +107,10 @@ they’re making life harder for the people they work with.
 — every knowledge worker, everywhere, always
 
 <!-- Note -->
-Because your job is to give your team objectives and guardrails, and
+Because our job is to give our teams objectives and guardrails, and
 then let them succeed. And there’s nothing that depresses people’s
 motivation and productivity as much as getting in the way between them
-and their objectives.
+and their objectives, *which we define for them.*
 
 So:
 
@@ -117,19 +122,19 @@ With more than 5 people,
 (or daily status reports 🙄)
 
 <!-- Note -->
-With more than 5 people, it becomes impossible for you, as a manager,
-to keep track of what your team is doing by just watching them do
-their thing. So, you’ll end up doing daily standups because that’s the
-only way you’ll be able to keep track of how they’re doing.
+With more than 5 people, it becomes impossible for me, as a manager,
+to keep track of what my team is doing by just watching them do
+their thing. That’s how we end up with daily standups — because that’s the
+only way to keep track of how they’re doing.
 
 
 TODO: Results of poll on standups
 
 <!-- Note -->
 And let me tell you a secret: Daily standups are as much liked by
-managers as they are disliked by engineers. If you’re thinking you’re
-doing your people a favor by having daily standups think again —
-because that’s a favor you’re doing *yourself,* to their disadvantage.
+managers as they are disliked by engineers. If we’re thinking we’re
+doing our people a favor by having daily standups, think again —
+because that’s a favor we’re doing *ourself,* to their disadvantage.
 
 
 With more than 5 people,
@@ -137,8 +142,11 @@ With more than 5 people,
 you’ll have to use your daily standups to gauge how they **feel, too.**
 
 <!-- Note -->
-But what’s worse is that you’ll need to use that daily standup to
-gauge how they’re *feeling,* too. And that’s even worse. 
+And we’ll need to use that daily standup to gauge how they’re
+*feeling,* too. Are they humming along or barely coping? Are they
+churning away at peak productivity, or are they scraping their
+personal barrel? Are they crushing it, or is it crushing them? And
+that’s even worse.
 
 
 With more than 5 people,
@@ -147,7 +155,7 @@ With more than 5 people,
 
 <!-- Note -->
 With more than 5 people it also becomes impossible to stay informed to
-the point of *understanding,* in detail, everything your group does —
+the point of *understanding,* in detail, everything our group does —
 not just their actions, but also the technical motivation, the
 problem-solving options they considered and discarded, and went with a
 different one. 
@@ -160,15 +168,15 @@ you won’t be able to stay understand in detail on what your team does.
 **And that means you’re no longer able to be an interface to other groups.**
 
 <!-- Note -->
-But that’s a crucial prerequisite for you to act as an interface to
-other groups.
+But that understanding is a crucial prerequisite for us to act as an
+interface to other groups.
 
-The minute you can no longer do that, your people will need to
+The minute we can no longer do that, our people will need to
 coordinate directly with other people at their level in other teams,
 *and that’s not their job.*
 
-As a manager it’s *your* job to be that interface, and with too large
-a team size you are actively keeping yourself from doing it.
+As managers it’s *our* job to be that interface, and with too large
+a team size you we actively keeping ourselves from doing it.
 
 
 With more than 5 people,
@@ -176,10 +184,10 @@ With more than 5 people,
 **you’ve got no way to stay on top of things, technically.**
 
 <!-- Note --> 
-Furthermore: In a technical leadership role, you can’t *not*
-understand what your team does. Staying on top of things is a
-prerequisite so you can make informed decisions. Handwaving is not in
-your job description.
+Furthermore: In a technical leadership role, we can’t *not*
+understand what our team does. Staying on top of things is a
+prerequisite so we can make informed decisions. Handwaving is not in
+our job description.
 
 
 With more than 5 people,
@@ -188,12 +196,13 @@ With more than 5 people,
 
 And it’s really hard to be responsible if you’re clueless.
 
-<!-- Note --> 
-Don’t understand something? Have your team explain
-it to you, in detail, then decide. 
+<!-- Note -->
+What if we don’t understand something? Well, then we have a capable
+and hightly expert team to our team explain it to us, in detail, then
+decide.
 
-And it’s next to impossible if your team is over 10 people with
-different areas of expertise.
+But it’s next to impossible to pull that off if the team is over 10
+people, all with different areas of expertise.
 
 
 With more than 5 people,
@@ -205,13 +214,13 @@ From all of the above it follows that with a team of more than 5
 people, it becomes really difficult to reasonably take full
 accountability and responsibility for everything that the team does,
 *particularly* when things go south. *But that’s the very definition
-of a person in charge:* you absorb blame for yourself, and you pass on
+of a person in charge:* we absorb blame for yourself, and we pass on
 credit to the team. 
 
 
 <!-- .slide: data-background-image="images/burnout.png" data-background-size="contain" -->
 
 <!-- Note -->
-And you want to be in a position where you confidently *can* do that —
-if you’re not, you’re putting your health, your sanity, your family,
-and your career on the line. And no-one should be doing that.
+And we want to be in a position where you confidently *can* do that —
+because if we’re not, we’re putting our health, our sanity, our family,
+and our career on the line. And no-one should be doing that.
