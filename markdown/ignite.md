@@ -89,16 +89,20 @@ want to compromise my dedication and my obligation to my people
 *and our business* under those five responsibilities, that’s the
 limit.
 
-Now of course some of you will say, that’s nonsense!
+Now of course some of you will say, “that’s nonsense!”
 
 
-I can do this for more people!
+“I can do this for more people!”
 
 <!-- Note -->
+... “I can do this for more people!”
+
 Surely you can do this for more people. A significant number of
-managers *do* this for more people. But we’re not able to do it
-without compromising those five responsibilities, and thus making
-life harder for the people we work with.
+managers *do* this for more people. 
+
+But we’re not able to do it *without compromising those five
+responsibilities,* and thus making life harder for the people we work
+with.
 
 
 > “A good manager is someone who gives me objectives and guardrails,
@@ -112,8 +116,6 @@ then let them succeed. And there’s nothing that depresses people’s
 motivation and productivity as much as getting in the way between them
 and their objectives, *which we define for them.*
 
-So:
-
 
 With more than 5 people,
 
@@ -123,8 +125,8 @@ With more than 5 people,
 
 <!-- Note -->
 With more than 5 people, it becomes impossible for me, as a manager,
-to keep track of what my team is doing by just watching them do
-their thing. That’s how we end up with daily standups — because that’s the
+to keep track of what my team is doing by just watching them do their
+thing. That’s how we end up with daily standups — because that’s the
 only way to keep track of how they’re doing.
 
 
@@ -143,10 +145,11 @@ you’ll have to use your daily standups to gauge how they **feel, too.**
 
 <!-- Note -->
 And we’ll need to use that daily standup to gauge how they’re
-*feeling,* too. Are they humming along or barely coping? Are they
+*feeling,* too. Are they humming along, or barely coping? Are they
 churning away at peak productivity, or are they scraping their
-personal barrel? Are they crushing it, or is it crushing them? And
-that’s even worse.
+personal barrel? Are they crushing it, or is it crushing them?
+
+Do you know? With 6 people, 7, 10? are you sure?
 
 
 With more than 5 people,
@@ -154,16 +157,11 @@ With more than 5 people,
 **you won’t be able to understand in detail on what your team does.**
 
 <!-- Note -->
-With more than 5 people it also becomes impossible to stay informed to
-the point of *understanding,* in detail, everything our group does —
-not just their actions, but also the technical motivation, the
-problem-solving options they considered and discarded, and went with a
-different one. 
+With more than 5 people it also becomes impossible to *understand in
+detail* everything our group does — not just their actions, but also
+the technical motivation, the options they considered and discarded,
+and went with a different one.
 
-
-With more than 5 people,
-
-you won’t be able to stay understand in detail on what your team does.
 
 **And that means you’re no longer able to be an interface to other groups.**
 
@@ -171,12 +169,12 @@ you won’t be able to stay understand in detail on what your team does.
 But that understanding is a crucial prerequisite for us to act as an
 interface to other groups.
 
-The minute we can no longer do that, our people will need to
-coordinate directly with other people at their level in other teams,
-*and that’s not their job.*
+If we fail at this, our people will need to coordinate directly with
+other people at their level in other teams, *and that’s not their
+job.*
 
-As managers it’s *our* job to be that interface, and with too large
-a team size you we actively keeping ourselves from doing it.
+As managers it’s *our* job to be that interface, and with too large a
+team size we actively keep ourselves from doing it.
 
 
 With more than 5 people,
@@ -184,25 +182,19 @@ With more than 5 people,
 **you’ve got no way to stay on top of things, technically.**
 
 <!-- Note --> 
-Furthermore: In a technical leadership role, we can’t *not*
-understand what our team does. Staying on top of things is a
-prerequisite so we can make informed decisions. Handwaving is not in
-our job description.
+Furthermore: In a technical leadership role, we can’t *not* understand
+what our team does. Staying on top of things is a prerequisite so we
+can make informed decisions. Handwaving is not in our job description.
 
 
-With more than 5 people,
-
-**you’ve got no way to stay on top of things, technically.**
-
-And it’s really hard to be responsible if you’re clueless.
+**And you can’t be responsible if you’re clueless.**
 
 <!-- Note -->
 What if we don’t understand something? Well, then we have a capable
-and hightly expert team to our team explain it to us, in detail, then
-decide.
+and highly expert team to explain it to us, in detail, then decide.
 
-But it’s next to impossible to pull that off if the team is over 10
-people, all with different areas of expertise.
+But it’s next to impossible to pull that off if the team is large with
+diversity of specialties and great depth in expertise.
 
 
 With more than 5 people,
@@ -214,8 +206,8 @@ From all of the above it follows that with a team of more than 5
 people, it becomes really difficult to reasonably take full
 accountability and responsibility for everything that the team does,
 *particularly* when things go south. *But that’s the very definition
-of a person in charge:* we absorb blame for yourself, and we pass on
-credit to the team. 
+of a person in charge:* we absorb blame by ourselves, and we pass on
+credit to the team.
 
 
 <!-- .slide: data-background-image="images/burnout.png" data-background-size="contain" -->
