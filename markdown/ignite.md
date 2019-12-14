@@ -130,7 +130,11 @@ thing. That’s how we end up with daily standups — because that’s the
 only way to keep track of how they’re doing.
 
 
-TODO: Results of poll on standups
+### Daily standups
+
+as seen by
+
+![Comparison of views on daily standups from managers and engineers](images/managers-engineers.svg)
 
 <!-- Note -->
 And let me tell you a secret: Daily standups are as much liked by
