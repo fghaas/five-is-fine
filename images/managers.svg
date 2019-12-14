@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif"
+   width="383.41925"
+   height="434.49631"
+   id="svg113"
+   sodipodi:docname="managers.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata117">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     id="namedview115"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:zoom="1.08"
+     inkscape:cx="293.4455"
+     inkscape:cy="138.62346"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg113" />
+  <desc
+     id="desc2">Created with Highcharts 4.2.7</desc>
+  <defs
+     id="defs7">
+    <clipPath
+       id="highcharts-28">
+      <rect
+         x="1"
+         y="1"
+         width="578"
+         height="298"
+         id="rect4" />
+    </clipPath>
+  </defs>
+  <g
+     id="g23"
+     transform="translate(-78.560045,161.35262)"
+     class="highcharts-markers highcharts-series-0" />
+  <g
+     class="highcharts-tooltip"
+     display="none"
+     style="white-space:nowrap;display:none"
+     id="g109"
+     transform="translate(-88.560045,114.35262)">
+    <path
+       d="m 3.5,0.5 h 10 c 3,0 3,0 3,3 v 10 c 0,3 0,3 -3,3 h -10 c -3,0 -3,0 -3,-3 v -10 c 0,-3 0,-3 3,-3"
+       transform="translate(1,1)"
+       id="path99"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-opacity:0.05" />
+    <path
+       d="m 3.5,0.5 h 10 c 3,0 3,0 3,3 v 10 c 0,3 0,3 -3,3 h -10 c -3,0 -3,0 -3,-3 v -10 c 0,-3 0,-3 3,-3"
+       transform="translate(1,1)"
+       id="path101"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-opacity:0.1" />
+    <path
+       d="m 3.5,0.5 h 10 c 3,0 3,0 3,3 v 10 c 0,3 0,3 -3,3 h -10 c -3,0 -3,0 -3,-3 v -10 c 0,-3 0,-3 3,-3"
+       transform="translate(1,1)"
+       id="path103"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.15" />
+    <path
+       d="m 3.5,0.5 h 10 c 3,0 3,0 3,3 v 10 c 0,3 0,3 -3,3 h -10 c -3,0 -3,0 -3,-3 v -10 c 0,-3 0,-3 3,-3"
+       id="path105"
+       inkscape:connector-curvature="0"
+       style="fill:#f9f9f9;fill-opacity:0.85" />
+    <text
+       x="8"
+       style="color:#000000;font-size:12px;fill:#000000"
+       y="20"
+       id="text107" />
+  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot1611"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:-3px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(-88.560045,114.35262)"><flowRegion
+       id="flowRegion1613"><rect
+         id="rect1615"
+         width="434.25925"
+         height="475.92593"
+         x="91.666664"
+         y="-12.962963" /></flowRegion><flowPara
+       id="flowPara1617" /></flowRoot>  <g
+     style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif"
+     id="g1572"
+     transform="translate(-79.258725,80.189953)">
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path13-3"
+       d="M 299.97424,58.500003 A 126.5,126.5 0 0 1 426.24102,176.90953 L 300,185 Z" />
+    <path
+       style="fill:#0000ff;fill-opacity:0.49803922;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path15-6"
+       d="M 426.24904,177.03577 A 126.5,126.5 0 0 1 185.58087,238.94916 L 300,185 Z" />
+    <path
+       style="fill:#ffff00;fill-opacity:0.49803922;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path17-7"
+       d="m 185.52698,238.83472 a 126.5,126.5 0 0 1 -5.86499,-92.8349 L 300,185 Z" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path19-5"
+       d="M 179.70105,145.8795 A 126.5,126.5 0 0 1 299.82429,58.500122 L 300,185 Z" />
+  </g>
+  <g
+     style="font-size:12px;font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif"
+     id="g23-3"
+     transform="translate(-491.38796,329.45748)"
+     class="highcharts-markers highcharts-series-0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="90.201569"
+     y="120.3615"
+     id="text2659-5"><tspan
+       sodipodi:role="line"
+       id="tspan2657-62"
+       x="90.201569"
+       y="120.3615"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'">20%</tspan><tspan
+       sodipodi:role="line"
+       x="90.201569"
+       y="153.69484"
+       id="tspan2663-9">Hate</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="8.1333332"
+     y="264.84299"
+     id="text2659-3-1"><tspan
+       sodipodi:role="line"
+       id="tspan2657-6-2"
+       x="8.1333332"
+       y="264.84299"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'">12%</tspan><tspan
+       sodipodi:role="line"
+       x="8.1333332"
+       y="298.17633"
+       id="tspan2663-7-7">Dislike </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="298.33896"
+     y="390.84299"
+     id="text2659-3-5-0"><tspan
+       sodipodi:role="line"
+       id="tspan2657-6-3-9"
+       x="298.33896"
+       y="390.84299"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'">44%</tspan><tspan
+       sodipodi:role="line"
+       x="298.33896"
+       y="424.17633"
+       id="tspan2663-7-5-3">Like</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="321.8309"
+     y="132.36151"
+     id="text2659-3-5-6-6"><tspan
+       sodipodi:role="line"
+       id="tspan2657-6-3-2-0"
+       x="321.8309"
+       y="132.36151"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'">24%</tspan><tspan
+       sodipodi:role="line"
+       x="321.8309"
+       y="165.69484"
+       id="tspan2663-7-5-9-6">Love</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:-3px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="138.78067"
+     y="36.240002"
+     id="text1621-2"><tspan
+       sodipodi:role="line"
+       id="tspan1619-6"
+       x="138.78067"
+       y="36.240002"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:0px">Managers</tspan></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot1646"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:-3px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(-410.24923,-1.9836426e-6)"><flowRegion
+       id="flowRegion1648"><rect
+         id="rect1650"
+         width="353.7037"
+         height="237.03703"
+         x="108.33334"
+         y="466.49481" /></flowRegion><flowPara
+       id="flowPara1652"></flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot1654"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:-3px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(-410.24923,-1.9836426e-6)"><flowRegion
+       id="flowRegion1656"><rect
+         id="rect1658"
+         width="562.03705"
+         height="479.62964"
+         x="-142.59259"
+         y="522.97632" /></flowRegion><flowPara
+       id="flowPara1660"></flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot1662"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:-3px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(-410.24923,-1.9836426e-6)"><flowRegion
+       id="flowRegion1664"><rect
+         id="rect1666"
+         width="251.85185"
+         height="130.55556"
+         x="69.444443"
+         y="624.82819" /></flowRegion><flowPara
+       id="flowPara1668"></flowPara></flowRoot></svg>

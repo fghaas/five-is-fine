@@ -22,7 +22,7 @@ body:after {
   font-size: 200%;
 }
 .reveal iframe, .reveal img {
-  border: none;
+  border: none !important;
 }
 .reveal .fragment .visible {
   opacity: 0.4 !important;
