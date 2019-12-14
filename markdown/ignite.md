@@ -71,7 +71,7 @@ person for whose work we hold responsibility will take up 20% of our
 time. So that means:
 
 
-TODO: 60% pie chart
+![60% pie chart](images/60-40.svg)
 
 <!-- Note -->
 If I run a team of 3 people (excluding myself), then 60% of my
@@ -80,7 +80,7 @@ only 40% of my work time will be available for my own active
 contribution to our product.
 
 
-TODO: 100% pie chart
+![100% pie chart](images/100-0.svg)
 
 <!-- Note -->
 By the time I get to 5, I’m a full-time manager and I make no direct
