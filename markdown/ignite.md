@@ -2,8 +2,9 @@ What do managers do?
 
 <!-- Note -->
 And I hope we also agree that in no particular order, there are five
-things that should apply approximately equally to any manager. At
-least they’re my expectation of any manager, including of myself:
+things that should apply roughly equally to any manager. 
+
+At least they’re my expectation of any manager, including of myself:
 
 
 ###  Managers
@@ -26,14 +27,14 @@ deliver.
 * I want to be an interface to other teams, via other managers at my
   level,
 * I want to be accountable and responsible for what we do as a group,
-* I want to ensure that we deliver what we build on time, on budget,
-  and as a good contribution to our overall business.
+* and I want to ensure that we deliver — on time, on budget, and as a
+  good contribution to our overall business.
 
 
 With how many people does this work?
 
 <!-- Note -->
-Now a little while back, I ran a Twitter poll asking: if those are the
+Not too long ago I ran a Twitter poll asking: if those are the
 things managers ought to be doing — and there was no disagreement that
 they are — then what is the maximum number of people we should be
 doing it with?
@@ -42,10 +43,10 @@ doing it with?
 <!-- .slide: data-background-image="images/poll.png" data-background-size="contain" -->
 
 <!-- Note -->
-And the results were not surprising; they reflected what’s more or
+And the results were not surprising. They reflected what’s more or
 less the conventional wisdom in our industry: the general expectation
-is that a manager ought to be capable of doing this with a team size
-of up to 10 people.
+is that a manager ought to be able to do this with a team size of up
+to 10 people.
 
 
 If you think you can do all 5 for more than 5 people,
@@ -83,24 +84,23 @@ contribution to our product.
 ![100% pie chart](images/100-0.svg)
 
 <!-- Note -->
-By the time I get to 5, I’m a full-time manager and I make no direct
-contribution to our product anymore. If I don’t
-want to compromise my dedication and my obligation to my people
-*and our business* under those five responsibilities, that’s the
-limit.
+By the time I get to 5, I’m a full-time manager. I make no direct
+contribution to our product anymore. If I don’t want to compromise my
+dedication and my obligation to my people *and our business* under
+those five responsibilities, that’s the limit.
 
-Now of course some of you will say, “that’s nonsense!”
+Now some of you will of course say, “that’s nonsense!”
 
 
-“I can do this for more people!”
+“I can manage more people!”
 
 <!-- Note -->
-... “I can do this for more people!”
+... “I can manage more people!”
 
-Surely you can do this for more people. A significant number of
-managers *do* this for more people. 
+Surely we can manage more people. A significant number of managers
+*do* manage more people.
 
-But we’re not able to do it *without compromising those five
+But we’re not able to do that *without compromising those five
 responsibilities,* and thus making life harder for the people we work
 with.
 
@@ -140,18 +140,19 @@ as seen by
 And let me tell you a secret: Daily standups are as much liked by
 managers as they are disliked by engineers. If we’re thinking we’re
 doing our people a favor by having daily standups, think again —
-because that’s a favor we’re doing *ourself,* to their disadvantage.
+because that’s a favor we’re doing *ourselves,* likely to their
+disadvantage.
 
 
 With more than 5 people,
 
 you’ll have to use your daily standups to gauge how they **feel, too.**
 
-<!-- Note -->
+<!-- Note --> 
 And we’ll need to use that daily standup to gauge how they’re
 *feeling,* too. Are they humming along, or barely coping? Are they
-churning away at peak productivity, or are they scraping their
-personal barrel? Are they crushing it, or is it crushing them?
+churning away at peak productivity, or are they scraping the bottom of
+their personal barrel? Are they crushing it, or is it crushing them?
 
 Do you know? With 6 people, 7, 10? are you sure?
 
@@ -163,7 +164,7 @@ With more than 5 people,
 <!-- Note -->
 With more than 5 people it also becomes impossible to *understand in
 detail* everything our group does — not just their actions, but also
-the technical motivation, the options they considered and discarded,
+the technical motivations, the options they considered and discarded,
 and went with a different one.
 
 
@@ -188,17 +189,20 @@ With more than 5 people,
 <!-- Note --> 
 Furthermore: In a technical leadership role, we can’t *not* understand
 what our team does. Staying on top of things is a prerequisite so we
-can make informed decisions. Handwaving is not in our job description.
+can make informed decisions. 
+
+Handwaving is not in our job description.
 
 
 **And you can’t be responsible if you’re clueless.**
 
 <!-- Note -->
-What if we don’t understand something? Well, then we have a capable
-and highly expert team to explain it to us, in detail, then decide.
+So what if we don’t understand something? Well, then we have a capable
+and highly expert team to explain it to us, in detail, and then we can
+decide.
 
-But it’s next to impossible to pull that off if the team is large with
-diversity of specialties and great depth in expertise.
+But it’s next to impossible to pull that off if the team is large, 
+with great diversity of specialties and great depth in expertise.
 
 
 With more than 5 people,
@@ -209,14 +213,15 @@ With more than 5 people,
 From all of the above it follows that with a team of more than 5
 people, it becomes really difficult to reasonably take full
 accountability and responsibility for everything that the team does,
-*particularly* when things go south. *But that’s the very definition
-of a person in charge:* we absorb blame by ourselves, and we pass on
-credit to the team.
+*particularly* when things go south. 
+
+*But that’s the very definition of a person in charge:* we absorb
+blame by ourselves, and we pass on credit to the team.
 
 
 <!-- .slide: data-background-image="images/burnout.png" data-background-size="contain" -->
 
 <!-- Note -->
-And we want to be in a position where you confidently *can* do that —
-because if we’re not, we’re putting our health, our sanity, our family,
-and our career on the line. And no-one should be doing that.
+And you want to be in a position where you confidently *can* do that —
+because if you’re not, your’re putting your health, your sanity, your
+family, and your career on the line. And no-one should be doing that.
