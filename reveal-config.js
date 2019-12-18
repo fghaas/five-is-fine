@@ -7,7 +7,7 @@ Reveal.initialize({
     progress: false,
     history: true,
     center: true,
-    showNotes: false,
+    showNotes: true,
 
     transition: 'fade',
     navigationMode: 'linear',
