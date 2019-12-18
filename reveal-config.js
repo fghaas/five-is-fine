@@ -20,8 +20,6 @@ Reveal.initialize({
         markers: true
     },
 
-    autoSlide: 15000,
-
     defaultTiming: 15,
 
     multiplex: {
