@@ -126,8 +126,9 @@ With more than 5 people,
 <!-- Note -->
 With more than 5 people, it becomes impossible for me, as a manager,
 to keep track of what my team is doing by just watching them do their
-thing. That’s how we end up with daily standups — because that’s the
-only way to keep track of how they’re doing.
+thing. That’s how we end up with the necessity of something like daily
+standups — because that’s the only way to keep track of how they’re
+doing.
 
 
 ### Daily standups
@@ -150,9 +151,8 @@ you’ll have to use your daily standups to gauge how they **feel, too.**
 
 <!-- Note --> 
 And we’ll need to use that daily standup to gauge how they’re
-*feeling,* too. Are they humming along, or barely coping? Are they
-churning away at peak productivity, or are they scraping the bottom of
-their personal barrel? Are they crushing it, or is it crushing them?
+*feeling,* too. Are they humming along, or barely coping?  Are they
+crushing it, or is it crushing them?
 
 Do you know? With 6 people, 7, 10? are you sure?
 
@@ -164,7 +164,7 @@ With more than 5 people,
 <!-- Note -->
 With more than 5 people it also becomes impossible to *understand in
 detail* everything our group does — not just their actions, but also
-the technical motivations, the options they considered and discarded,
+their decisions, the options they considered and discarded,
 and went with a different one.
 
 
@@ -202,7 +202,7 @@ and highly expert team to explain it to us, in detail, and then we can
 decide.
 
 But it’s next to impossible to pull that off if the team is large, 
-with great diversity of specialties and great depth in expertise.
+with a wide array of specialties and great depth in expertise.
 
 
 With more than 5 people,
@@ -210,7 +210,7 @@ With more than 5 people,
 **it’s really hard to pass on credit and absorb blame.**
 
 <!-- Note -->
-From all of the above it follows that with a team of more than 5
+From all of this it follows that with a team of more than 5
 people, it becomes really difficult to reasonably take full
 accountability and responsibility for everything that the team does,
 *particularly* when things go south. 
